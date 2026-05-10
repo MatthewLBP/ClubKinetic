@@ -2351,7 +2351,7 @@ GameObject:
   - component: {fileID: 1587348810}
   - component: {fileID: 1587348813}
   m_Layer: 0
-  m_Name: XR Origin (XR Rig)
+  m_Name: CKPlayer
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
